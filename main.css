@@ -17,9 +17,9 @@ body {
 .boxB {
     height: 100px;
     width: 100px;
-    border: 15px solid pink;
+    border: 15px dotted pink;
     border-radius: 50%;
-    margin: -15px;    
+    margin: 100px;    
     background-color: rgba(13, 0, 255, 0.431);
 
 }
