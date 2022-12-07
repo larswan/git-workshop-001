@@ -6,9 +6,28 @@ body {
     display: flex
 }
 
-.box {
+.boxA {
     height: 100px;
     width: 100px;
     border: 15px solid pink;
-    margin: 10px
+    margin: -15px;
+    background-color: rgba(255, 0, 0, 0.494);
+}
+
+.boxB {
+    height: 100px;
+    width: 100px;
+    border: 15px solid pink;
+    border-radius: 50%;
+    margin: -15px;    
+    background-color: rgba(13, 0, 255, 0.431);
+
+}
+.boxC {
+    height: 100px;
+    width: 100px;
+    border: 15px solid pink;
+    margin: -15px;    
+    background-color: rgba(238, 255, 0, 0.608);
+
 }
